@@ -17,6 +17,7 @@
 ## 👨‍💻 About me
 
 - 🧑‍💻 AI Product Manager Intern at **Low Entropy AI · AirJelly** in Beijing
+- 💼 Previously an AI Research Intern at **Emotional Byte AI Inc.**, researching Agent interaction patterns and delivering a bilingual social product
 - 🎓 B.Mgmt. in Marketing at **Shenzhen Technology University**, Class of 2027
 - 🧠 Interested in how AI can understand people over time and turn Context into useful action
 - 🧭 Working across product architecture, interaction design, research, and product-engineering collaboration
