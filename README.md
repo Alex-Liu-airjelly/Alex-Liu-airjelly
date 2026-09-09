@@ -1,31 +1,50 @@
-# 👋 Hi, I'm Alex.
+<div align="center">
 
-I'm an AI Product Manager Intern at [Low Entropy AI · AirJelly](https://airjelly.ai), working across product architecture, Agent Context, and core product experiences.
+# Hi, I'm Alex 👋
 
-I'm interested in how AI can understand people over time, turn context into useful action, and remain understandable and controllable while doing so.
+**AI Product Manager building context-aware products at [AirJelly](https://airjelly.ai)**
 
-## 🧭 Currently
+`Agent Context` · `Memory` · `Proactive AI` · `Product Systems`
 
-Helping shape AirJelly 2.0 around Agent Context and context consumption — from early product judgment to working foundations for Grow, Suggestion to Do, and Recall.
+</div>
 
-## 🛠 Selected independent work
+<p align="center">
+  <img src="https://alexliu072903-bit.github.io/alexliu.readme/profile/cat-close.jpg" width="31%" alt="A cat resting close to the camera" />
+  <img src="https://alexliu072903-bit.github.io/alexliu.readme/profile/cat-detail.jpg" width="31%" alt="A cat looking down" />
+  <img src="https://alexliu072903-bit.github.io/alexliu.readme/profile/cat-chair.jpg" width="31%" alt="A cat relaxing on a chair" />
+</p>
 
-| Project | What it is | Status |
-| --- | --- | --- |
-| [Cairn Lite](https://alexliu072903-bit.github.io/alexliu.readme/projects/cairn-lite/) | A small Markdown protocol for preserving project judgments across Agents and sessions. | Experimental · Open source |
-| [Obsidian AI Starter](https://alexliu072903-bit.github.io/alexliu.readme/projects/obsidian-ai-starter/) | A reproducible way to connect a local Agent to an existing Obsidian vault, with explicit setup and permission boundaries. | Available · Open source |
-| [Obsidian Git Sync](https://alexliu072903-bit.github.io/alexliu.readme/projects/obsidian-git-sync/) | A Skill for syncing an Obsidian vault while keeping the decision about what may leave the device with the user. | Available · Open source |
+## 👨‍💻 About me
 
-The source repositories for these independent projects live on my [personal GitHub account](https://github.com/alexliu072903-bit).
+- 🧑‍💻 AI Product Manager Intern at **Low Entropy AI · AirJelly** in Beijing
+- 🎓 B.Mgmt. in Marketing at **Shenzhen Technology University**, Class of 2027
+- 🧠 Interested in how AI can understand people over time and turn Context into useful action
+- 🧭 Working across product architecture, interaction design, research, and product-engineering collaboration
+- 🗣️ Native Cantonese speaker, former debate-team captain, and usually surrounded by cats
+
+## 🚀 What I'm working on
+
+At **AirJelly**, I'm helping shape a product system around Agent Context and context consumption: how scattered user Context is composed, ranked, controlled, recalled, and made useful to both users and external Agents.
+
+My focus is not adding more AI features. It is making AI assistance feel more continuous, timely, understandable, and controllable.
+
+## 🔬 Research
+
+**The Reinforcement of the Interaction between High-Speed Rail and Digital Infrastructure on Digital Inclusion-Mental Health: Evidence from China**
+
+Paper accepted and presented at the **20th Annual Conference of the International Association for China Planning (IACP)**, July 2026.
 
 ## ✍️ Writing
 
-- [Two Flywheels: A Management Model Built for AI Startups](https://airjelly.ai/blog/two-flywheels) — a structure I encountered during my first internship and have continued thinking about since.
+**[Two Flywheels: A Management Model Built for AI Startups](https://airjelly.ai/blog/two-flywheels)**  
+A structure I encountered during my first internship — and have continued thinking about since.
 
-## 🌿 Beyond work
+## 🌐 Find me
 
-Former captain of my university's business-school debate team. Native Cantonese speaker. Usually surrounded by cats.
-
-## ↗ Explore
-
-[Personal website](https://alexliu072903-bit.github.io/alexliu.readme/) · [Projects](https://alexliu072903-bit.github.io/alexliu.readme/projects/) · [About](https://alexliu072903-bit.github.io/alexliu.readme/about/) · [CV](https://alexliu072903-bit.github.io/alexliu.readme/resume/alex-liu-english-cv.pdf) · [Email](mailto:alexliu072903@gmail.com)
+<p>
+  <a href="https://alexliu072903-bit.github.io/alexliu.readme/"><img src="https://img.shields.io/badge/Personal_Website-579260?style=flat-square" alt="Personal website" /></a>
+  <a href="https://alexliu072903-bit.github.io/alexliu.readme/about/"><img src="https://img.shields.io/badge/About-596158?style=flat-square" alt="About" /></a>
+  <a href="https://alexliu072903-bit.github.io/alexliu.readme/resume/alex-liu-english-cv.pdf"><img src="https://img.shields.io/badge/CV-d95335?style=flat-square" alt="CV" /></a>
+  <a href="https://github.com/alexliu072903-bit"><img src="https://img.shields.io/badge/Personal_GitHub-181717?style=flat-square&logo=github" alt="Personal GitHub" /></a>
+  <a href="mailto:alexliu072903@gmail.com"><img src="https://img.shields.io/badge/Email-596158?style=flat-square" alt="Email" /></a>
+</p>
