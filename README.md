@@ -59,6 +59,6 @@ A structure I encountered during my first internship — and have continued thin
   <a href="https://alexliu072903-bit.github.io/alexliu.readme/"><img src="https://img.shields.io/badge/Personal_Website-579260?style=flat-square" alt="Personal website" /></a>
   <a href="https://alexliu072903-bit.github.io/alexliu.readme/about/"><img src="https://img.shields.io/badge/About-596158?style=flat-square" alt="About" /></a>
   <a href="https://alexliu072903-bit.github.io/alexliu.readme/resume/alex-liu-english-cv.pdf"><img src="https://img.shields.io/badge/CV-d95335?style=flat-square" alt="CV" /></a>
-  <a href="https://github.com/Alex-Liu-airjelly"><img src="https://img.shields.io/badge/AirJelly_GitHub-181717?style=flat-square&logo=github" alt="AirJelly GitHub" /></a>
+  <a href="https://github.com/alexliu072903-bit"><img src="https://img.shields.io/badge/Personal_GitHub-181717?style=flat-square&logo=github" alt="Personal GitHub" /></a>
   <a href="mailto:alexliu072903@gmail.com"><img src="https://img.shields.io/badge/Email-596158?style=flat-square" alt="Email" /></a>
 </p>
