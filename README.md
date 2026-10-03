@@ -50,8 +50,9 @@ AI can make an operation disappear within months while leaving a generation with
 **[AI Applications Will Survive — Just Not in Their Current Form](https://alexliu072903-bit.github.io/alexliu.readme/writing/ai-applications-will-survive/?lang=en)**  
 Models will keep absorbing today's features, but infrastructure will not invent the products of the AI era by itself.
 
-**[Two Flywheels: A Management Model Built for AI Startups](https://airjelly.ai/blog/two-flywheels)**  
-A structure I encountered during my first internship — and have continued thinking about since.
+**[Two Flywheels: A Management Model for AI Startups](https://airjelly.ai/blog/two-flywheels)**
+
+A small office move showed me how a company can protect present delivery and future exploration without forcing them into the same daily rhythm.
 
 ## Open source
 
