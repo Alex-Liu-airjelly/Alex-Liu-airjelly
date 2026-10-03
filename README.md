@@ -19,17 +19,17 @@
 ## About me
 
 - One of the core product managers of **AirJelly 2.0**, at **Low Entropy AI** in Beijing
-- Previously an AI Research Intern at **Emotional Byte AI Inc.**, a U.S. AI startup, researching Agent interaction patterns and delivering a bilingual social product
+- Previously an AI Research Intern at **Emotional Byte AI Inc.**, a U.S. AI startup, researching Agent interaction patterns and delivering an English–Russian Telegram social product
 - B.Mgmt. in Marketing at **Shenzhen Technology University**, Class of 2027
 - Interested in how AI can understand people over time and turn Context into useful action
 - Working across product architecture, interaction design, research, and product-engineering collaboration
-- Native Cantonese speaker, former debate-team captain, and usually surrounded by cats
+- I speak Cantonese natively, used to captain a debate team, and like cats
 
 ## What I'm working on
 
-At **AirJelly** I work on Agent Context: bringing a user's scattered Context together so external Agents such as Codex and Claude Code can work with the full picture, and the user can see and control what is handed over.
+At **AirJelly**, I work on Agent Context: bringing a user's scattered Context together so external Agents such as Codex and Claude Code can access what matters to the current task, while the user can still inspect and control exactly what is handed over.
 
-I care about AI assistance that feels continuous, timely, understandable, and controllable.
+I am less interested in adding more AI features than in helping an Agent understand a person over time: retrieving the right Context, remembering confirmed decisions, acting at the right moment, and leaving consequential choices with the user.
 
 ## Research
 
@@ -47,10 +47,14 @@ A structure I encountered during my first internship — and have continued thin
 
 ## Open source
 
-- [cairn-context](https://github.com/alexliu072903-bit/cairn-context): lets a new agent session find the confirmed project decisions that matter to the task.
-- [evidence-first-personal-site](https://github.com/alexliu072903-bit/evidence-first-personal-site): builds a personal website from evidence.
-- [obsidian-ai-starter](https://github.com/alexliu072903-bit/obsidian-ai-starter) and [obsidian-git-sync-skill](https://github.com/alexliu072903-bit/obsidian-git-sync-skill): the Pi agent in an Obsidian vault, and Obsidian-to-GitHub sync.
-- [tg-miniapp-fastbuild](https://github.com/alexliu072903-bit/tg-miniapp-fastbuild): a step-by-step guide to deploying a Telegram Mini App.
+I package reusable methods from work and personal exploration as open-source projects:
+
+- [Cairn Context](https://github.com/alexliu072903-bit/cairn-context): helps an Agent recover the confirmed project decisions relevant to the task.
+- [Mechanism Illustration Skill](https://github.com/alexliu072903-bit/mechanism-illustration-skill): renders confirmed mechanisms as deterministic bilingual SVG diagrams.
+- [Evidence-First Personal Site](https://github.com/alexliu072903-bit/evidence-first-personal-site): builds personal sites from verifiable public evidence.
+- [Telegram Mini App Fastbuild](https://github.com/alexliu072903-bit/tg-miniapp-fastbuild): a production deployment path for Telegram Mini Apps.
+
+The complete set of projects and mechanism diagrams lives on my [personal GitHub](https://github.com/alexliu072903-bit).
 
 ## Find me
 

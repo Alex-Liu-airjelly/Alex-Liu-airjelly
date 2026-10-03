@@ -19,17 +19,17 @@
 ## 关于我
 
 - 北京 **Low Entropy AI** 的 **AirJelly 2.0** 核心产品经理之一
-- 此前在美国 AI 初创公司 **Emotional Byte AI Inc.** 担任 AI 研究实习生，研究 Agent 交互模式，并交付了一款双语社交产品
+- 此前在美国 AI 初创公司 **Emotional Byte AI Inc.** 担任 AI 研究实习生，研究 Agent 交互模式，并交付了一款英俄双语 Telegram 社交产品
 - **深圳技术大学** 市场营销专业（全英文授课）本科，2027 届
 - 关注 AI 如何长期理解一个人，并把 Context 转化为有用的行动
 - 工作横跨产品架构、交互设计、研究，以及产品与工程的协作
-- 粤语母语，曾任辩论队队长，身边总有猫
+- 粤语母语，曾任辩论队队长，喜欢小猫
 
 ## 我在做什么
 
-在 **AirJelly**，我负责 Agent Context 方向：把用户分散的 Context 整合起来，让 Codex、Claude Code 这类外部 Agent 掌握完整信息，同时让用户看得到、控制得了交给它们的内容。
+在 **AirJelly**，我负责 Agent Context 方向：把用户分散的 Context 整合起来，让 Codex、Claude Code 这类外部 Agent 获得与当前任务相关的信息，同时让用户看得到、控制得了具体交出了什么。
 
-我关心的是让 AI 辅助更连续、更及时、更容易理解、更可控。
+我关注的不是怎样给产品增加更多 AI 功能，而是怎样让 Agent 持续理解一个人：获得正确的 Context、记住已经确认的决定，在合适的时机采取行动，并把高影响的选择留给用户。
 
 ## 研究
 
@@ -47,10 +47,14 @@
 
 ## 开源
 
-- [cairn-context](https://github.com/alexliu072903-bit/cairn-context)：让新开的 Agent session 找回与当前任务相关、已经确认过的项目决定。
-- [evidence-first-personal-site](https://github.com/alexliu072903-bit/evidence-first-personal-site)：基于证据搭建个人网站。
-- [obsidian-ai-starter](https://github.com/alexliu072903-bit/obsidian-ai-starter) 和 [obsidian-git-sync-skill](https://github.com/alexliu072903-bit/obsidian-git-sync-skill)：把 Pi Agent 接入 Obsidian vault，以及把 Obsidian 同步到 GitHub。
-- [tg-miniapp-fastbuild](https://github.com/alexliu072903-bit/tg-miniapp-fastbuild)：部署 Telegram Mini App 的分步指南。
+我会把工作和个人探索中可复用的方法整理成开源项目：
+
+- [Cairn Context](https://github.com/alexliu072903-bit/cairn-context)：让 Agent 找回与当前任务相关、已经确认过的项目决定。
+- [Mechanism Illustration Skill](https://github.com/alexliu072903-bit/mechanism-illustration-skill)：把已经确认的机制稳定渲染成中英双语 SVG。
+- [Evidence-First Personal Site](https://github.com/alexliu072903-bit/evidence-first-personal-site)：从真实公开证据构建个人网站。
+- [Telegram Mini App Fastbuild](https://github.com/alexliu072903-bit/tg-miniapp-fastbuild)：Telegram Mini App 的生产部署路径。
+
+完整项目与机制图可以在我的[个人 GitHub](https://github.com/alexliu072903-bit)查看。
 
 ## 联系我
 
